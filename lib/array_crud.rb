@@ -8,8 +8,8 @@ end
 
 def add_element_to_end_of_array(array, element)
   numbers["one","two","three"]
-  numbers << "four"
-  puts numbers.inspect
+  numbers.push ("four")
+  
   
 end
 
